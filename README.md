@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101012,100:6C5CE7&height=200&section=header&text=SleepyCode&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Premium%20FiveM%20scripts%20%26%20custom%20development&descSize=20&descAlignY=60" alt="SleepyCode" width="100%"/>
+<img src="https://raw.githubusercontent.com/Leszek74/Leszek74/main/assets/banner.png" alt="SleepyCode - Premium FiveM scripts & custom development" width="100%"/>
 
 ### Scripts that run at **< 0.03 ms**, ship with real support, and are built by the person who answers your ticket.
 
 **ESX · QBCore · QBox · Standalone** &nbsp;|&nbsp; Building for FiveM **since 2020**
 
-[![Website](https://img.shields.io/badge/🌐_Website-sleepycode.eu-6C5CE7?style=for-the-badge)](https://www.sleepycode.eu/)
+[![Website](https://img.shields.io/badge/🌐_Website-sleepycode.eu-5B4BC4?style=for-the-badge)](https://www.sleepycode.eu/)
 [![Discord DM](https://img.shields.io/badge/Discord_DM-Leszek74-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Leszek74)
 [![Email](https://img.shields.io/badge/Email-leszek74.mgmt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leszek74.mgmt@gmail.com)
 
@@ -186,11 +186,11 @@ I'm **Leszek**, founder of **SleepyCode**. If your server needs a feature nobody
 
 [![Discord DM](https://img.shields.io/badge/💬_DM_me_on_Discord-Leszek74-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Leszek74)
 [![Email](https://img.shields.io/badge/📧_Email_me-leszek74.mgmt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leszek74.mgmt@gmail.com)
-[![Website](https://img.shields.io/badge/🌐_Visit_the_shop-sleepycode.eu-6C5CE7?style=for-the-badge)](https://www.sleepycode.eu/)
+[![Website](https://img.shields.io/badge/🌐_Visit_the_shop-sleepycode.eu-5B4BC4?style=for-the-badge)](https://www.sleepycode.eu/)
 
 🇵🇱 *Pracuję po polsku i po angielsku - napisz do mnie, a wspólnie zaplanujemy Twój projekt.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:101012&height=100&section=footer" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/Leszek74/Leszek74/main/assets/footer.png" alt="SleepyCode - Let's build something your players will remember" width="100%"/>
 
 <sub>SleepyCode is not affiliated with Rockstar Games or Take-Two Interactive.</sub>
 
